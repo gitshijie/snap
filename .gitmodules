@@ -1,0 +1,3 @@
+[submodule "ap05_common"]
+	path = ap05_common
+	url = git@github.com:gitshijie/ap05_common.git
